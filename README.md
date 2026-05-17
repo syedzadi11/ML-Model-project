@@ -1,12 +1,12 @@
 ````markdown
-# 🐱🐶 Cat vs Dog Image Classification AI Model
+#  Cat vs Dog Image Classification AI Model
 
 This is a simple Machine Learning project built using **TensorFlow** and **Keras**.  
 The model predicts whether the given image is a **Cat** or a **Dog**.
 
 ---
 
-# 🚀 Features
+#  Features
 
 - Image Classification using CNN
 - Trained on Cat & Dog dataset
@@ -16,7 +16,7 @@ The model predicts whether the given image is a **Cat** or a **Dog**.
 
 ---
 
-# 🛠 Technologies Used
+#  Technologies Used
 
 - Python
 - TensorFlow
@@ -25,7 +25,7 @@ The model predicts whether the given image is a **Cat** or a **Dog**.
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ML-Model project/
 
@@ -47,9 +47,9 @@ ML-Model project/
 
 ---
 
-# ▶️ How to Run
+#  How to Run
 
-## 1️⃣ Install Dependencies
+##  Install Dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -57,7 +57,7 @@ pip install -r requirements.txt
 
 ---
 
-## 2️⃣ Train Model
+##  Train Model
 
 ```bash
 python train.py
@@ -65,7 +65,7 @@ python train.py
 
 ---
 
-## 3️⃣ Run Prediction
+##  Run Prediction
 
 ```bash
 python predict.py
@@ -73,7 +73,7 @@ python predict.py
 
 ---
 
-# 🧠 Model Details
+#  Model Details
 
 * Input Image Size: 150x150
 * CNN Based Architecture
@@ -82,7 +82,7 @@ python predict.py
 
 ---
 
-# 📸 Example Output
+#  Example Output
 
 ```bash
 Prediction Probabilities: [[0.34 0.66]]
@@ -92,13 +92,13 @@ Final Result: Dog
 
 ---
 
-# 📌 Note
+#  Note
 
 This is a beginner-level AI project created for learning purposes.
 
 ---
 
-# 👩‍💻 Author
+#  Author
 
 Jannah Syeda
 
